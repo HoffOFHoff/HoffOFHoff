@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HoffOFHoff
-- 👀 I’m interested in Chem and Material and how the world makes sense
+- 👀 I’m interested in Chem / Material / Bio
 - 🌱 I’m currently learning HOW TO DO RESEARCH
-- 💞️ I’m looking to collaborate on people who want to combine CS and Matherial and Chem
 - 📫 How to reach me :zxu92@jhu.edu
 
 <!---
